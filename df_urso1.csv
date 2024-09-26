@@ -1,0 +1,167 @@
+ age,Month,Year,Type,Location,Hunter,Grizzly,Hikers,Only one killed
+3.0,May,1901,Wild,"Job, West Virginia",0,0,0,0
+5.0,May,1901,Wild,"Job, West Virginia",0,0,0,0
+7.0,May,1901,Wild,"Job, West Virginia",0,0,0,0
+18.0,Nov,1906,Wild,"Elk County, Pennsylvania",0,0,0,1
+1.0,Oct,1908,Captive,"Tucson, Arizona",0,0,0,1
+61.0,Sep,1916,Wild,"Yellowstone National Park, Wyoming",0,0,0,1
+60.0,Jun,1922,Wild,"Absaroka-Beartooth Wilderness, Montana",0,1,0,1
+9.0,Aug,1929,Wild,"near Lac Du Bonnet, Manitoba",0,0,0,1
+52.0,Sep,1929,Wild,"Jasper National Park, Alberta",0,0,0,1
+,Oct,1929,Wild,"Admiralty Island, Alaska",0,0,0,1
+60.0,Jun,1930,Captive,"Watertown, New York",0,0,0,1
+56.0,Jul,1932,Captive,"Cleveland, Ohio",0,0,0,1
+70.0,Oct,1932,Wild,"near Dawson, Yukon",0,0,0,1
+5.0,Oct,1932,Captive,"Albion, New York",0,0,0,1
+11.0,Oct,1933,Captive,"Brookhaven, New York",0,0,0,1
+76.0,Jul,1934,Captive,"Denver, Colorado",0,1,0,1
+54.0,Nov,1934,Captive,"Mankato, Minnesota",0,0,0,1
+64.0,Nov,1934,Captive,"Pecos County, Texas",0,0,0,1
+55.0,Oct,1936,Captive,"Ellsworth, Maine",0,0,0,0
+68.0,Oct,1936,Captive,"Ellsworth, Maine",0,0,0,0
+28.0,Jun,1941,Captive,"Detroit, Michigan",0,0,0,1
+45.0,Aug,1942,Wild,"Yellowstone National Park, Wyoming",0,0,0,1
+68.0,Dec,1942,Captive,"San Diego, California",0,0,0,1
+37.0,Nov,1943,Wild,"West Townshend, Vermont",1,0,0,1
+59.0,Aug,1945,Captive,"Chicago, Illinois",0,0,0,1
+8.0,Sep,1945,Captive,"Seattle, Washington",0,0,0,1
+3.0,Jul,1948,Wild,"Marquette National Forest, Michigan",0,0,0,1
+18.0,Sep,1952,Captive,"Crawford Notch State Park, New Hampshire",0,0,0,1
+50.0,Nov,1952,Wild,"near Anchorage, Alaska",0,0,0,1
+3.0,Aug,1953,Captive,"Flagstaff, Arizona",0,0,0,1
+,Sep,1955,Wild,"near Eureka, Alaska",1,0,0,1
+28.0,Oct,1956,Captive,"Libertyville, Illinois",0,0,0,1
+29.0,Oct,1956,Wild,"near Augusta, Montana",1,0,0,1
+7.0,Aug,1958,Wild,"Jasper National Park, Alberta",0,0,0,1
+45.0,Oct,1958,Wild,"near Ovando, Montana",1,1,0,1
+51.0,Sep,1959,Wild,"near Cadomin, Alberta",0,0,0,1
+51.0,Aug,1963,Wild,"near Fairbanks, Alaska",0,0,0,1
+26.0,Sep,1964,Wild,"near Schefferville, Quebec",1,0,0,1
+51.0,Jul,1965,Wild,"Aitkin, Minnesota",0,0,0,1
+3.0,Sep,1966,Captive,"Prescott, Arizona",0,0,0,1
+11.0,Aug,1967,Wild,"near Okanagan Landing, British Columbia",0,0,0,1
+19.0,Aug,1967,Wild,"Glacier National Park, Montana",0,1,0,0
+19.0,Aug,1967,Wild,"Glacier National Park, Montana",0,1,0,0
+53.0,Oct,1968,Wild,"near Atikokan, Ontario",0,0,0,1
+19.0,Nov,1968,Wild,"Churchill, Manitoba",0,0,0,1
+49.0,Mar,1969,Captive,"Fort Leonard Wood, Missouri",0,0,0,1
+40.0,Jan,1970,Wild,"near Fort St. John, British Columbia",1,0,0,1
+31.0,Jul,1971,Wild,"near Rocky Mountain National Park, Colorado",1,0,0,1
+19.0,Jan,1972,Captive,"Toledo, Ohio",0,0,0,1
+25.0,Jun,1972,Wild,"Yellowstone National Park, Wyoming",0,0,0,1
+51.0,Sep,1973,Wild,"Banff National Park, Alberta",0,1,0,1
+4.0,May,1974,Wild,"Glenwood, Washington",0,0,0,1
+38.0,Aug,1974,Wild,"Izembek National Wildlife Refuge, Alaska",0,1,0,1
+18.0,Jan,1975,Wild,"Inuvik, Northwest Territories",0,0,0,1
+1.0,Aug,1975,Captive,"Stewardson, Illinois",0,0,0,1
+24.0,Jul,1976,Wild,"Glacier National Park of Canada, British Columbia",0,1,1,1
+43.0,Aug,1976,Captive,"Baltimore, Maryland",0,0,0,1
+22.0,Sep,1976,Wild,"Glacier National Park, Montana",0,1,0,1
+5.0,Jul,1977,Wild,"Waterton Lakes National Park, Alberta",0,1,0,1
+12.0,May,1978,Wild,"Algonquin Provincial Park, Ontario",0,0,0,0
+15.0,May,1978,Wild,"Algonquin Provincial Park, Ontario",0,0,0,0
+16.0,May,1978,Wild,"Algonquin Provincial Park, Ontario",0,0,0,0
+30.0,Jul,1978,Captive,"King, Ontario",0,0,0,1
+32.0,Sep,1979,Wild,"near Pincher Creek, Alberta",1,1,0,1
+10.0,Jul,1980,Wild,"near Granisle, British Columbia",0,0,0,1
+19.0,Jul,1980,Wild,"Glacier National Park, Montana",1,0,0,0
+19.0,Jul,1980,Wild,"Glacier National Park, Montana",1,0,0,0
+24.0,Aug,1980,Wild,"near Zama City, Alberta",0,0,0,0
+44.0,Aug,1980,Wild,"near Zama City, Alberta",0,0,0,0
+38.0,Aug,1980,Wild,"near Banff, Alberta",0,0,0,1
+33.0,Sep,1980,Wild,"Glacier National Park, Montana",0,0,0,1
+29.0,Sep,1982,Captive,New York City,0,0,0,1
+26.0,May,1983,Wild,"near Canwood, Saskatchewan",0,0,0,1
+55.0,May,1983,Wild,"near Nipawin Provincial Park, Saskatchewan",0,0,0,1
+23.0,Jun,1983,Wild,"Gallatin National Forest, Montana",0,0,0,1
+12.0,Jul,1983,Wild,"La Vérendrye Wildlife Reserve, Quebec",0,0,0,1
+46.0,Nov,1983,Wild,"Churchill, Manitoba",0,0,0,1
+25.0,Jul,1984,Wild,Yellowstone National Park,0,0,0,1
+24.0,May,1985,Wild,"near Fort Nelson, British Columbia",0,0,0,1
+25.0,Sep,1986,Wild,"Glacier Bay National Park and Preserve, Alaska",0,0,0,1
+38.0,Oct,1986,Wild,"Yellowstone National Park, Wyoming",0,0,0,1
+40.0,Apr,1987,Wild,"Glacier National Park, Montana",0,0,0,1
+11.0,May,1987,Captive,"Brooklyn, New York",0,0,0,1
+29.0,Jul,1987,Wild,"Glacier National Park, Montana",0,0,1,1
+40.0,Nov,1988,Wild,"Port Alexander, Alaska",1,0,0,1
+28.0,Dec,1990,Wild,"Point Lay, Alaska",0,0,0,1
+12.0,May,1991,Wild,"Lesser Slave Lake, Alberta",0,0,0,1
+32.0,Oct,1991,Wild,"Algonquin Provincial Park, Ontario",0,0,0,0
+48.0,Oct,1991,Wild,"Algonquin Provincial Park, Ontario",0,0,0,0
+20.0,Jun,1992,Wild,"near Cochrane, Ontario",0,0,0,1
+33.0,Jul,1992,Wild,"Glennallen, Alaska",0,0,0,1
+6.0,Jul,1992,Wild,"near King Cove, Alaska",0,1,0,1
+40.0,Sep,1992,Wild,"Jasper National Park, Alberta",0,0,0,1
+40.0,Oct,1992,Wild,"Glacier National Park, Montana",0,0,0,1
+24.0,Aug,1993,Wild,"Fremont County, Colorado",0,0,0,1
+4.0,Sep,1994,Wild,"70 Mile House, British Columbia",0,0,0,1
+45.0,Jul,1995,Wild,"near Anchorage, Alaska",0,0,0,0
+77.0,Jul,1995,Wild,"near Anchorage, Alaska",0,0,0,0
+32.0,Oct,1995,Wild,"near Radium Hot Springs, British Columbia",0,0,0,0
+40.0,Oct,1995,Wild,"near Radium Hot Springs, British Columbia",0,0,0,0
+53.0,Jun,1996,Wild,"near Tatlayoko Lake, British Columbia",0,0,0,1
+32.0,Jul,1996,Wild,"Kluane National Park, Yukon",0,0,0,1
+33.0,Aug,1996,Wild,"Gates of the Arctic National Park, Alaska",0,0,0,1
+37.0,Aug,1997,Wild,"Liard River Hot Springs Provincial Park, British Columbia",0,0,0,0
+56.0,Aug,1997,Wild,"Liard River Hot Springs Provincial Park, British Columbia",0,0,0,0
+40.0,Feb,1998,Wild,"near Kenai, Alaska",0,0,0,1
+26.0,May,1998,Wild,"Glacier National Park, Montana",0,0,1,1
+40.0,Aug,1998,Wild,"near Beaver Mines, Alberta",0,1,0,1
+65.0,Oct,1998,Wild,"near Prince George, British Columbia",0,1,0,1
+53.0,May,1999,Wild,"Kenai National Wildlife Refuge, Alaska",0,0,0,1
+64.0,Jul,1999,Wild,"near Rankin Inlet, Nunavut",0,0,0,1
+53.0,Nov,1999,Wild,"Uganik Island, Alaska",1,0,0,1
+50.0,May,2000,Wild,"Great Smoky Mountains National Park, Tennessee",0,0,0,1
+24.0,Jul,2000,Wild,"near Valcartier, Quebec",0,0,0,1
+41.0,Jul,2000,Wild,"Hyder, Alaska",0,0,0,1
+18.0,Jun,2001,Wild,"near Yellowknife, Northwest Territories",0,0,0,1
+93.0,Aug,2001,Wild,"Mora, New Mexico",0,0,0,1
+50.0,Oct,2001,Wild,"near Ovando, Montana",0,0,0,1
+0.416666667,Aug,2002,Wild,"Fallsburg, New York",0,0,0,1
+31.0,Sep,2002,Wild,"near Fort Nelson, British Columbia",0,0,0,1
+77.0,Sep,2002,Wild,"Saint-Zénon-du-Lac-Humqui, Quebec",0,0,0,1
+37.0,Oct,2003,Wild,"Katmai National Park, Alaska",0,1,0,0
+46.0,Oct,2003,Wild,"Katmai National Park, Alaska",0,1,0,0
+35.0,Jun,2005,Wild,"Canmore, Alberta",0,0,0,1
+71.0,Jun,2005,Wild,"Nonacho Lake, Northwest Territories",0,0,0,1
+58.0,Jun,2005,Wild,"Arctic National Wildlife Refuge, Alaska",0,0,0,0
+61.0,Jun,2005,Wild,"Arctic National Wildlife Refuge, Alaska",0,0,0,0
+69.0,Aug,2005,Wild,"Selkirk, Manitoba",0,0,0,1
+30.0,Sep,2005,Wild,"Missinaibi Lake Provincial Park, Ontario",0,0,0,1
+60.0,Sep,2005,Wild,"near Bowron River, British Columbia",0,0,0,1
+6.0,Apr,2006,Wild,"Cherokee National Forest, Tennessee",0,0,0,1
+28.0,Apr,2006,Wild,"near Ross River, Yukon",0,0,0,1
+11.0,Jun,2007,Wild,"Uinta National Forest, Utah",0,0,0,1
+31.0,Jul,2007,Wild,"Panorama Mountain Resort, British Columbia",0,0,0,1
+51.0,Nov,2007,Wild,"near Sundre, Alberta",1,1,0,1
+39.0,Apr,2008,Captive,"Big Bear Lake, California",0,0,0,1
+70.0,May,2008,Wild,"near La Sarre, Quebec",0,0,0,1
+48.0,Oct,2008,Wild,"near Sundre, Alberta",1,1,0,1
+74.0,Aug,2009,Wild,"Ouray, Colorado",0,0,0,1
+37.0,Oct,2009,Captive,"Ross Township, Pennsylvania",0,0,0,1
+70.0,Jun,2010,Wild,"Shoshone National Forest, Wyoming",0,1,0,1
+48.0,Jul,2010,Wild,"Gallatin National Forest, Montana",0,0,0,1
+24.0,Aug,2010,Captive,"Columbia Station, Ohio",0,0,0,1
+72.0,Jun,2011,Wild,"near Lillooet, British Columbia",0,0,0,1
+57.0,Jul,2011,Wild,"Yellowstone National Park, Wyoming",0,1,0,1
+61.0,Jul,2011,Wild,"Pinetop-Lakeside, Arizona",0,0,0,1
+59.0,Aug,2011,Wild,"Yellowstone National Park, Wyoming",0,1,1,1
+49.0,Aug,2012,Wild,"Denali National Park, Alaska",0,1,1,1
+54.0,Oct,2012,Wild,"Chichagof Island, Alaska",0,1,0,1
+64.0,Jun,2013,Wild,"near Delta Junction, Alaska",0,0,0,1
+36.0,May,2014,Wild,"near Fort McMurray, Alberta",0,0,0,1
+31.0,Sep,2014,Wild,"Bridger-Teton National Forest, Wyoming",0,1,0,1
+54.0,Sep,2014,Wild,"Kananaskis Country, Alberta",1,0,0,1
+53.0,Sep,2014,Wild,"near Norman Wells, Northwest Territories",1,0,0,1
+22.0,Sep,2014,Wild,"near West Milford, New Jersey",0,0,1,1
+27.0,May,2015,Wild,"near Mackenzie, British Columbia",0,0,0,1
+63.0,Aug,2015,Wild,"Yellowstone National Park, Wyoming",0,1,0,1
+38.0,Jun,2016,Wild,"Flathead National Forest, Montana",0,1,0,1
+16.0,Jun,2017,Wild,"Indian, Alaska",0,0,0,1
+27.0,Jun,2017,Wild,"Pogo mine, Alaska",0,0,0,1
+44.0,Jun,2018,Wild,"Eagle River, Alaska",0,1,0,1
+31.0,Jul,2018,Wild,"Sentry Island, Nunavut",0,0,0,1
+37.0,Sep,2018,Wild,"Teton Wilderness, Wyoming",0,0,0,1
+18.0,Oct,2018,Wild,"Admiralty Island, Alaska",0,0,0,1
+37.0,Nov,2018,Wild,"Einarson Lake, Yukon",0,0,0,0
+0.833333333,Nov,2018,Wild,"Einarson Lake, Yukon",0,0,0,0
